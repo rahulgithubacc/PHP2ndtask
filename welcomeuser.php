@@ -2,8 +2,7 @@
     <body>
         <center><h1>Welcome!!!!!!!!!!!!!!<br>
         This is user page</h1></center>
-        <p>To get registered please click on the link below</p>
-        <a href="userselfregistration.php">click here</a>
+        <a href="logout.php">Logout</a>
     </body>
     
 </html>
